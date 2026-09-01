@@ -1,0 +1,18 @@
+# CSTracker — Dependências Python
+# Compatível com Python 3.11+
+# AWPy 2.x para CS2 demos
+
+# Análise de demos CS2
+awpy==2.0.0
+
+# Cliente Supabase (usa supabase-py)
+supabase==2.9.0
+
+# HTTP client (usado internamente pelo supabase-py)
+httpx>=0.27.0
+
+# Variáveis de ambiente
+python-dotenv==1.0.1
+
+# Validação de dados
+pydantic==2.8.2
