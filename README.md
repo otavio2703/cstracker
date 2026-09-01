@@ -97,7 +97,7 @@ Você precisará do seu **Steam ID 64-bit** para identificar seus dados na demo.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/cstracker.git
+git clone https://github.com/otavio2703/cstracker.git
 cd cstracker
 
 # Instalar dependências
